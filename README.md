@@ -1,1 +1,3 @@
-# hammingcode_implementation_socketprogramming
+# hammingcode_implementation
+
+socket programming
